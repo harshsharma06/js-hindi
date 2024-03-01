@@ -49,3 +49,4 @@ console.log("1"+2+3+"2")
 //        Arrays  =>  object
 //        Function  =>  function
 //        Object  =>  object
+
